@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZCPower
-- 👀 I’m interested in ... becoming a web and software developer.
-- 🌱 I’m currently learning ... HTML, CSS, and Javascript.
+- 👀 I’m interested in ... becoming a front-end web developer.
+- 🌱 I’m currently learning ... JavaScript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... zachpowerxc@gmail.com
 
