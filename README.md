@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... JavaScript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... zachpowerxc@gmail.com or www.linkedin.com/in/zachpower
-- :mag: Visit my portfolio ... zachpower.herokuapp.com
+- :mag: Visit my portfolio ... http://zachpower.herokuapp.com
 
 <!---
 ZCPower/ZCPower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
