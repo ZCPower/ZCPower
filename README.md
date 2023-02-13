@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZCPower
+# 👋 Hi, I’m @ZCPower
 - 👀 I’m interested in ... becoming a front-end web developer.
 - 🌱 I’m currently learning ... JavaScript and React
 - 💞️ I’m looking to collaborate on ...
