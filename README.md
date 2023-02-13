@@ -2,7 +2,7 @@
 # 👋 Hey there! I am Zach Power.
 - 👀 I’m interested in building beautiful and functional websites.<br>
 - 🌱 I’m currently learning JavaScript and Python.<br>
-- 📫 How to reach me: zachpowerxc@gmail.com or www.linkedin.com/in/zachpower<br>
+- 📫 How to reach me: zpower.dev@gmail.com or www.linkedin.com/in/zachpower<br>
 - :mag: Visit my portfolio: http://zachpower.onrender.com
 
 
