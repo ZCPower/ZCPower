@@ -1,5 +1,6 @@
 
-# 👋 Hey there! I am Zach Power.<br>- 👀 I’m interested in building beautiful and functional websites.<br>- 🌱 I’m currently learning JavaScript and Python.<br>-  📫 How to reach me: zachpowerxc@gmail.com or www.linkedin.com/in/zachpower<br>- :mag: Visit my portfolio: http://zachpower.onrender.com
+# 👋 Hey there! I am Zach Power.
+- 👀 I’m interested in building beautiful and functional websites.<br>- 🌱 I’m currently learning JavaScript and Python.<br>-  📫 How to reach me: zachpowerxc@gmail.com or www.linkedin.com/in/zachpower<br>- :mag: Visit my portfolio: http://zachpower.onrender.com
 
 
 # 💻 Tech Stack:
