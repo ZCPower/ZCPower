@@ -1,6 +1,9 @@
 
 # 👋 Hey there! I am Zach Power.
-- 👀 I’m interested in building beautiful and functional websites.<br>- 🌱 I’m currently learning JavaScript and Python.<br>-  📫 How to reach me: zachpowerxc@gmail.com or www.linkedin.com/in/zachpower<br>- :mag: Visit my portfolio: http://zachpower.onrender.com
+- 👀 I’m interested in building beautiful and functional websites.<br>
+- 🌱 I’m currently learning JavaScript and Python.<br>
+- 📫 How to reach me: zachpowerxc@gmail.com or www.linkedin.com/in/zachpower<br>
+- :mag: Visit my portfolio: http://zachpower.onrender.com
 
 
 # 💻 Tech Stack:
@@ -10,11 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZCPower&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZCPower&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZCPower&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ZCPower&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
